@@ -1,4 +1,39 @@
 wats1010-embedded-media
 =======================
 
-The source Embedded Media assignment repository for WATS1010.
+This is the resource repository for the Embedded Media assignment, part of WATS
+1010: Introduction to Web Development. Please note: **This repository is
+large.**
+
+The goal of this assignment is to explore the features and capabilities
+available for embedding multimedia in HTML5 documents. We will experiment
+as we create a single, "long scrolling", page to promote the open source film,
+"Monkaa". This film was create by the Indian animation company Weybec and
+released under a Creative Commons Attribution license. This makes it a legal
+movie for us to experiment with.
+
+Requirements
+------------
+
+* Create an elegant presentation for the content on this page with clearly
+  defined sections so it is easy for users to browse the contents.
+* Fill in each respective section with appropriate content.
+* Offer MP4 and WEBM video in a default HTML5 video player.
+* Style the containers and presentation of the audio and video to highlight the
+  experience, making it more enjoyable for users.
+* Provide internal links for quick access to different portions of the page.
+* Use positioning and hover effects to make a persistent "share" box with
+  social network links.
+* Complete all of the TODOs defined in the file.
+
+
+Stretch Goals
+-------------
+If you make it through all of the other stuff very quickly and easily, try
+to achieve this additional set of stretch goals.
+
+* Add download icons to the download buttons.
+* Use a video loop in the header (or somewhere else on the page) in order to
+  create a compelling design.
+* Explore how to make a "letterpress" or "cutout" text effect for the featured
+  text in the About section and/or for the text in the page header.
