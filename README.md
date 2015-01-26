@@ -27,9 +27,9 @@ Requirements
 * Complete all of the TODOs defined in the file.
 * Choose image formats wisely given different use cases. When creating images,
   also choose wisely to use the appropriate format.
-* Right now the videos are inconsistent sizes. Transcode the larger video down
-  to 720p resolution so you are consistent with the size of video file you
-  deliver.
+* Right now you have only been supplied with a 1080p WEBM format video. Convert
+  that video to an MP4 so more browsers can display the video with a native
+  videoplayer.
 * Resize and optimize the images you use throughout so they fit into their
   appropriate roles as efficiently as possible.
 * Create a new favicon that better represents the page as you've designed it.
