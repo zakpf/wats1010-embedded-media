@@ -31,7 +31,7 @@ Requirements
   that video to an MP4 so more browsers can display the video with a native
   videoplayer. (**NOTE:** Your MP4 version must be under 100mb, and it's best if
   it can be under 50mb, although in this one case it's OK as long as it's
-  between 50 and 100mb.)
+  under 100mb in file size.)
 * Resize and optimize the images you use throughout so they fit into their
   appropriate roles as efficiently as possible.
 * Create a new favicon that better represents the page as you've designed it.
