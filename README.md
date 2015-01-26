@@ -25,6 +25,14 @@ Requirements
 * Use positioning and hover effects to make a persistent "share" box with
   social network links.
 * Complete all of the TODOs defined in the file.
+* Choose image formats wisely given different use cases. When creating images,
+  also choose wisely to use the appropriate format.
+* Right now the videos are inconsistent sizes. Transcode the larger video down
+  to 720p resolution so you are consistent with the size of video file you
+  deliver.
+* Resize and optimize the images you use throughout so they fit into their
+  appropriate roles as efficiently as possible.
+* Create a new favicon that better represents the page as you've designed it.
 
 
 Stretch Goals
@@ -37,3 +45,6 @@ to achieve this additional set of stretch goals.
   create a compelling design.
 * Explore how to make a "letterpress" or "cutout" text effect for the featured
   text in the About section and/or for the text in the page header.
+* Add a homescreen icon for iOS and Android devices so when they save the page
+  to their homescreen they get a custom icon that matches the favicon you
+  designed.
