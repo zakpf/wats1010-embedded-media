@@ -4,7 +4,90 @@
  *
  * Site Styles
  *****************************************************************************/
+html {
+	padding: 0;
+	background-color:gray;
+}
 
- html {
-     color: green;
+body {
+	margin: 0;
+}
+
+header {
+	min-height: 400px;
+	background-image: url('../img/monkaa_title.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+#social:hover {
+	width: 250px;
+}
+
+#social {
+	border-style: solid;
+	border-width: 1px;
+	position: absolute;
+	top: 50px;
+	right: 0;
+	width: 25px;
+	transition: 1s width;
  }
+
+#social h2 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.social-links {
+	margin-top: 9.96px;
+	margin-bottom: 0;
+}
+
+#social ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#social li {
+	margin: 0;
+	padding: 0;
+}
+
+.main-nav li {
+	list-style-type:none;
+	display: inline;
+}
+
+.weybec-people li {
+	list-style-type: none;
+	line-height: 1.5;
+}
+
+.weybec-people ul {
+	padding: 0;
+}
+
+#weybec-people {
+	display: inline;
+}
+.weybec-people img {
+	width:20%;
+	height: auto;
+}
+
+section#about {
+	background-image: url('../img/monkey_crystal.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+section#watch {
+	font-family: sans-serif;
+}
+
+a:hover {
+    color: #FF00FF;
+}
